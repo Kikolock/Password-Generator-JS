@@ -18,7 +18,6 @@ function writePassword() {
 
 }
 
-
 var generatePassword = function() {
   var newPassword = "";
   for (i = 0; i < passwordCriteria.size; i++){

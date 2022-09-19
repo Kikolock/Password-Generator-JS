@@ -24,6 +24,6 @@ This challenge consists in creating a application to generate password:
 
 link: https://kikolock.github.io/Password-Generator-JS
 
-![My Remote Image](...)
+![My Remote Image]()
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
