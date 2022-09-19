@@ -2,7 +2,7 @@
 
 ## Technologies used and why.
 
-For this project, I need to create a application that anyone can use to generate a random password based on criteria they have selected. This app will run in the browser.
+For this project, I need to create a application that anyone can use to generate a random password based on criteria they have selected. This app will run in the browser but has a responsive layout for different viewports.
 
 ## Challenges for future improvement
 
@@ -19,11 +19,12 @@ This challenge consists in creating a application to generate password:
 - In the end the password is generated that matches the selected criteria
 - When passowrd is generated, is either displayed in an alert or writter to the page
 - When resize the page or view the site on various screens and devices, is presented with a responsive layout that adapts to my viewport
+- Extra: Added a clipboard buttom to make easier to copy the password generated
 
 ## Link to deployed application
 
 link: https://kikolock.github.io/Password-Generator-JS
 
-![My Remote Image]()
+![My Remote Image](https://github.com/Kikolock/Password-Generator-JS/blob/main/assets/Picture/Code%20finished%20deployed%20page.PNG)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
